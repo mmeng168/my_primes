@@ -48,7 +48,3 @@ module MyPrimes
     end
 end
 
-start = ARGV[0]
-total = ARGV[1]
-arr = MyPrimes::MyPrime.get_primes(start.to_i, total.to_i) 
-MyPrimes::PrimeMetrix.print_metrix(arr)
