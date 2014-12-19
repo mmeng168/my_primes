@@ -1,6 +1,6 @@
 # MyPrimes
 
-TODO: Write a gem description
+A tiny project for Funding Circle code challenge
 
 ## Installation
 
